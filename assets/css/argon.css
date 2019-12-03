@@ -2910,7 +2910,6 @@ textarea.form-control
     padding: .625rem 1.25rem;
 
     -webkit-user-select: none;
-       -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out; 
@@ -4725,7 +4724,6 @@ input[type='button'].btn-block
 
     content: '';
     -webkit-user-select: none;
-       -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
     pointer-events: none;
@@ -23594,7 +23592,6 @@ a.text-lighter:focus
     margin: 0;
 
     -webkit-user-select: none;
-       -moz-user-select: none;
         -ms-user-select: none;
             user-select: none; 
 
@@ -24584,7 +24581,6 @@ table.dataTable tbody > tr.selected
     box-sizing: border-box; 
 
     -webkit-user-select: none;
-       -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
 
@@ -25336,7 +25332,6 @@ html:not([dir='rtl']) .noUi-horizontal .noUi-handle
 
     cursor: pointer;
     -webkit-user-select: none;
-       -moz-user-select: none;
         -ms-user-select: none;
             user-select: none;
     transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out; 
