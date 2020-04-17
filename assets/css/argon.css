@@ -18681,6 +18681,11 @@ textarea[resize='horizontal']
 
 @media (max-width: 991.98px)
 {
+    .btn-outline-neutral
+    {
+        color: #274653;
+        border-color: #274653;
+    }
     .navbar-horizontal .navbar-nav .nav-link
     {
         padding: .625rem 0;
